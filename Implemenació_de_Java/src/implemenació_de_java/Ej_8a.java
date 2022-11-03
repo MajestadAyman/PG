@@ -19,7 +19,7 @@ import java.util.Scanner;
 public class Ej_8a {
 
     private static final String MSG_1 = "Introduce un número entero: ";
-    private static final String MSG_2 = "Error, vuelve a introducir un número entero: ";
+    private static final String MSG_2 = "Error, ese no es un 0, vuelve a introducir un número entero: ";
 
     public static void main(String[] args) {
         int num;
